@@ -24,7 +24,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Demo Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/dipanjal/demo-maven-repository</url>
+			<url>https://maven.pkg.github.com/dipanjal-ml/core-scrapper</url>
 		</repository>
 	</distributionManagement>
 
